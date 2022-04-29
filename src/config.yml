@@ -1,0 +1,16 @@
+WEBHOOK_URL: "https://ptb.discord.com/api/webhooks/832628835878305852/TfPRjtP1_NGuG9WuBqCiPIt1YJ0jnpjn5qdsYrrkngo4p3eTk_cSUT151Q8pAkM4Xki6"
+WEBHOOK2_URL: "https://ptb.discord.com/api/webhooks/832628835878305852/TfPRjtP1_NGuG9WuBqCiPIt1YJ0jnpjn5qdsYrrkngo4p3eTk_cSUT151Q8pAkM4Xki6"
+SERVER: "SurvivalV2"
+
+COLOR: "#ff0000" # czerwony
+COLOR2: "#ff0000" # czerwony
+
+Commands: # tutaj dodaj wszystkie komendy na które plugin ma reagować
+  - gm
+  - gamemode
+  - gmc
+  - v
+  - vanish
+  - gmsp
+  - gms
+  - invsee

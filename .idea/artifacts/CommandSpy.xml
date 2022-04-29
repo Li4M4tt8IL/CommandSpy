@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CommandSpy">
+    <output-path>$PROJECT_DIR$/out/artifacts/CommandSpy</output-path>
+    <root id="archive" name="CommandSpy.jar">
+      <element id="module-output" name="CommandSpy" />
+    </root>
+  </artifact>
+</component>
